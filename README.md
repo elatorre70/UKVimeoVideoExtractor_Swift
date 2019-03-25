@@ -1,7 +1,7 @@
 # UKVimeoVideoExtractor_Swift
-VimeoVideoExtractor is an easy way to extract the Vimeo video playable mp4 URL which then can be used to play using AVPlayer. It gives other information of Video like height, width, size etc.
+UKVimeoVideoExtractor is an easy way to extract the Vimeo video playable mp4 URL which then can be used to play using AVPlayer. It gives other information of Video like height, width, size etc.
 
-VimeoVideoExtractor mainly used for fetching **Private video playable mp4 URL.** (It will extract both Private and Public Videos)
+UKVimeoVideoExtractor mainly used for fetching **Private video playable mp4 URL.** (It will extract both Private and Public Videos)
 
 ## Installing
 To get started add the following to your Podfile:
